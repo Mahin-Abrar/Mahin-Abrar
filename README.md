@@ -1,1 +1,1 @@
-![Profile views](https://komarev.com/ghpvc/?username=Mahin-Abrar&color=orange&style=social&label=Dekhtesi)
+![Profile views](https://komarev.com/ghpvc/?username=Mahin-Abrar&color=orange&style=pixel&label=Dekhtesi)
