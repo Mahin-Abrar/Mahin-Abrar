@@ -1,21 +1,22 @@
 <p align="center">
-
-```
-            ·  ·    ✦         ·
-       .          ·      ✦
-    ─────────────────────────────
-         BEBOP SESSION  //  ONLINE
-    ─────────────────────────────
-              ·     ✦      ·
-```
-
+  <img src="./assets/bebop-session.svg" alt="Bebop session online" width="720" />
 </p>
 
 <h1 align="center">Mahin Abrar</h1>
 
 <p align="center">
-  <b>Full Stack Software Engineer</b><br/>
-  <i>Building systems by day, drifting the cosmos by night.</i>
+  <b>Full Stack Software Engineer</b>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=7EC8E3&center=true&vCenter=true&width=560&height=36&lines=Building+systems+by+day;Drifting+the+cosmos+by+night;See+you%2C+space+cowboy"
+    alt="Typing tagline"
+  />
+</p>
+
+<p align="center">
+  <img src="./assets/swordfish-flyby.svg" alt="Swordfish flyby ASCII animation" width="720" />
 </p>
 
 <p align="center">
@@ -36,14 +37,9 @@ I am a full-stack engineer at [Fusion Infotech Ltd](https://github.com/Fusion-In
 
 The job is less about chasing shiny tech and more about clean workflows, honest interfaces, and software that still works when the crew is tired. Three years in, ten-plus systems later—still learning the map.
 
-```
-┌─ ship status ───────────────────────────────────────────────┐
-│  role      Full Stack Software Engineer                     │
-│  base      Fusion Infotech Ltd · Dhaka                      │
-│  stack     Python · JS · Vue · Frappe · ERPNext             │
-│  flight    3+ years · 10+ systems deployed                  │
-└─────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="./assets/ship-status.svg" alt="Animated ship status terminal" width="720" />
+</p>
 
 ---
 
@@ -110,12 +106,5 @@ Off-duty: photography, books, astronomy, pen sketches. Soundtrack optional. Stan
 ---
 
 <p align="center">
-
-```
-            ·    ✦         ·
-    ─────────────────────────────
-       see you, space cowboy
-    ─────────────────────────────
-```
-
+  <img src="./assets/see-you.svg" alt="See you, space cowboy" width="720" />
 </p>
