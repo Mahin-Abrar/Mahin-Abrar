@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/bebop-session.svg" alt="Bebop session online" width="720" />
+  <img src="assets/bebop-session.gif" alt="Bebop session online" width="720" />
 </p>
 
 <h1 align="center">Mahin Abrar</h1>
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/swordfish-flyby.svg" alt="Swordfish flyby ASCII animation" width="720" />
+  <img src="assets/swordfish-flyby.gif" alt="Swordfish flyby ASCII animation" width="720" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ I am a full-stack engineer at [Fusion Infotech Ltd](https://github.com/Fusion-In
 The job is less about chasing shiny tech and more about clean workflows, honest interfaces, and software that still works when the crew is tired. Three years in, ten-plus systems later—still learning the map.
 
 <p align="center">
-  <img src="./assets/ship-status.svg" alt="Animated ship status terminal" width="720" />
+  <img src="assets/ship-status.gif" alt="Animated ship status terminal" width="720" />
 </p>
 
 ---
@@ -106,5 +106,5 @@ Off-duty: photography, books, astronomy, pen sketches. Soundtrack optional. Stan
 ---
 
 <p align="center">
-  <img src="./assets/see-you.svg" alt="See you, space cowboy" width="720" />
+  <img src="assets/see-you.gif" alt="See you, space cowboy" width="720" />
 </p>
