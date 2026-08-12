@@ -1,67 +1,121 @@
+<p align="center">
+
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│                      M A H I N   A B R A R                  │
-│                                                             │
-│              Full Stack Software Engineer                   │
-│                                                             │
-│     Building systems by day, exploring the cosmos by night. │
-│                                                             │
+            ·  ·    ✦         ·
+       .          ·      ✦
+    ─────────────────────────────
+         BEBOP SESSION  //  ONLINE
+    ─────────────────────────────
+              ·     ✦      ·
+```
+
+</p>
+
+<h1 align="center">Mahin Abrar</h1>
+
+<p align="center">
+  <b>Full Stack Software Engineer</b><br/>
+  <i>Building systems by day, drifting the cosmos by night.</i>
+</p>
+
+<p align="center">
+  <a href="https://mahin-abrar.github.io/portfolio"><b>Portfolio</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Mahin-Abrar?tab=repositories">Projects</a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/mahinabrar">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:mahinabrar25@gmail.com">Comms</a>
+</p>
+
+---
+
+## Somewhere in this solar system
+
+I am a full-stack engineer at [Fusion Infotech Ltd](https://github.com/Fusion-Infotech-Ltd) in Dhaka. Most days I fly the Frappe / ERPNext stack—turning messy requirements into systems that hold under real load.
+
+The job is less about chasing shiny tech and more about clean workflows, honest interfaces, and software that still works when the crew is tired. Three years in, ten-plus systems later—still learning the map.
+
+```
+┌─ ship status ───────────────────────────────────────────────┐
+│  role      Full Stack Software Engineer                     │
+│  base      Fusion Infotech Ltd · Dhaka                      │
+│  stack     Python · JS · Vue · Frappe · ERPNext             │
+│  flight    3+ years · 10+ systems deployed                  │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-### About
+---
 
-Software engineer at [Fusion Infotech Ltd](https://github.com/Fusion-Infotech-Ltd), based in Dhaka. I build and customize full-stack systems on the Frappe / ERPNext stack—workflows, business logic, and interfaces that match how teams actually work.
+## Selected work
+
+| Mission | What it is |
+| --- | --- |
+| **HR & payroll** | HR and compensation workflows on ERPNext—config, rules, and delivery so people ops run on one stack. |
+| **ERP solutions** | Custom modules and business logic that bend ERPNext toward how the organization actually operates. |
+| **Ticket management** | Solo-built ticketing end to end: data model, triage, assign, close. |
+| **Project management** | Planning and ownership visible from intake to done—less lost context, fewer ghost tasks. |
+
+<p align="center">
+  <a href="https://mahin-abrar.github.io/portfolio"><b>View work log</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Mahin-Abrar?tab=repositories">All repositories</a>
+</p>
+
+---
+
+## Arsenal
 
 ```
-┌─ currently ─────────────────────────────────────────────────┐
-│  · Shipping ERP, HR & payroll, and ops tools                │
-│  · Turning requirements into reliable Frappe apps           │
-│  · 3+ years deep in production systems                      │
+  Python  ·  JavaScript  ·  Vue.js  ·  Frappe  ·  ERPNext  ·  REST
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Frappe-0089FF?style=flat-square&logoColor=white" alt="Frappe" />
+  <img src="https://img.shields.io/badge/ERPNext-0089FF?style=flat-square&logoColor=white" alt="ERPNext" />
+</p>
+
+---
+
+## Current course
+
+```
+┌─ coordinates ───────────────────────────────────────────────┐
+│  ERP & ops tools     Reliable Frappe apps for real crews    │
+│  Full-stack delivery Frontend to data model, one trajectory │
+│  Quiet craft         Clear code beats loud demos            │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-### Focus
+Off-duty: photography, books, astronomy, pen sketches. Soundtrack optional. Standards set unreasonably high by *Cowboy Bebop*.
+
+---
+
+## Hail frequencies
+
+<p align="center">
+
+| Channel | Frequency |
+| --- | --- |
+| Portfolio | [mahin-abrar.github.io/portfolio](https://mahin-abrar.github.io/portfolio) |
+| LinkedIn | [linkedin.com/in/mahinabrar](https://linkedin.com/in/mahinabrar) |
+| GitHub | [github.com/Mahin-Abrar](https://github.com/Mahin-Abrar) |
+| Email | [mahinabrar25@gmail.com](mailto:mahinabrar25@gmail.com) |
+
+</p>
+
+---
+
+<p align="center">
 
 ```
-┌─ what I build ──────────────────────────────────────────────┐
-│                                                             │
-│  HR & payroll        Workflows, config, compensation ops    │
-│  ERP solutions       Modules, business logic, integrations  │
-│  Ticket management   End-to-end triage → assign → close     │
-│  Project management  Intake to done, ownership kept visible │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+            ·    ✦         ·
+    ─────────────────────────────
+       see you, space cowboy
+    ─────────────────────────────
 ```
 
-### Stack
-
-```
-Python · JavaScript · Vue.js · Frappe · ERPNext · REST APIs
-```
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=flat-square&logo=frappe&logoColor=white)
-![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=flat-square&logoColor=white)
-
-### Connect
-
-```
-┌─ links ─────────────────────────────────────────────────────┐
-│  Portfolio   https://mahin-abrar.github.io/portfolio        │
-│  LinkedIn    https://linkedin.com/in/mahinabrar             │
-│  GitHub      https://github.com/Mahin-Abrar                 │
-│  Email       mahinabrar25@gmail.com                         │
-└─────────────────────────────────────────────────────────────┘
-```
-
-[Portfolio](https://mahin-abrar.github.io/portfolio) · [LinkedIn](https://linkedin.com/in/mahinabrar) · [GitHub](https://github.com/Mahin-Abrar) · [Email](mailto:mahinabrar25@gmail.com)
-
-```
-───────────────────────────────────────────────────────────────
-         thanks for stopping by — more soon from orbit
-───────────────────────────────────────────────────────────────
-```
+</p>
