@@ -1,22 +1,5 @@
 <p align="center">
-  <img src="assets/bebop-session.gif" alt="Bebop session online" width="720" />
-</p>
-
-<h1 align="center">Mahin Abrar</h1>
-
-<p align="center">
-  <b>Full Stack Software Engineer</b>
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=7EC8E3&center=true&vCenter=true&width=560&height=36&lines=Building+systems+by+day;Drifting+the+cosmos+by+night;See+you%2C+space+cowboy"
-    alt="Typing tagline"
-  />
-</p>
-
-<p align="center">
-  <img src="assets/swordfish-flyby.gif" alt="Swordfish flyby ASCII animation" width="720" />
+  <img src="assets/wordmark.gif" alt="MAHIN ABRAR animated ASCII wordmark" width="860" />
 </p>
 
 <p align="center">
@@ -27,6 +10,10 @@
   <a href="https://linkedin.com/in/mahinabrar">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:mahinabrar25@gmail.com">Comms</a>
+</p>
+
+<p align="center">
+  <img src="assets/swordfish-flyby.gif" alt="Swordfish flyby ASCII animation" width="720" />
 </p>
 
 ---
