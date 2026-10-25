@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Mahin Abrar — Software Engineer · Python · Frappe / ERPNext · Backend & Automation" width="860" />
+  <img src="assets/hero.svg?v=3" alt="Mahin Abrar — Software Engineer · Python · Frappe / ERPNext · Backend & Automation" width="860" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/swordfish-flyby.svg" alt="Swordfish II flyby" width="860" />
+  <img src="assets/swordfish-flyby.svg?v=3" alt="Swordfish II flyby" width="860" />
 </p>
 
 ### `SESSION 01` — On board
@@ -17,7 +17,7 @@
 Software Engineer at [Fusion Infotech Ltd](https://github.com/Fusion-Infotech-Ltd) in Dhaka with 3+ years building and deploying ERPNext / Frappe systems for clients in LPG distribution, healthcare, food, manufacturing, travel and recruitment. I work across backend logic, REST APIs, integrations and Linux deployment, and I've contributed a fix to Frappe core.
 
 <p align="center">
-  <img src="assets/bounty-file.svg" alt="Big Shot bounty file: Software Engineer, 3+ years. Stack: Python, Django, Frappe, ERPNext, Vue.js, SQL. Infra: Redis, MariaDB, Nginx, Ubuntu, CI/CD. Base: Dhaka, Fusion Infotech. Known for: approval engine, payroll engine, Frappe core fix." width="860" />
+  <img src="assets/bounty-file.svg?v=3" alt="Big Shot bounty file: Software Engineer, 3+ years. Stack: Python, Django, Frappe, ERPNext, Vue.js, SQL. Infra: Redis, MariaDB, Nginx, Ubuntu, CI/CD. Base: Dhaka, Fusion Infotech. Known for: approval engine, payroll engine, Frappe core fix." width="860" />
 </p>
 
 ### `SESSION 02` — Bounties cleared
@@ -62,5 +62,5 @@ Software Engineer at [Fusion Infotech Ltd](https://github.com/Fusion-Infotech-Lt
 Off-duty: photography, books, astronomy and pen sketches. Standards set unreasonably high by *Cowboy Bebop*.
 
 <p align="center">
-  <img src="assets/see-you.svg" alt="See you, space cowboy..." width="860" />
+  <img src="assets/see-you.svg?v=3" alt="See you, space cowboy..." width="860" />
 </p>
