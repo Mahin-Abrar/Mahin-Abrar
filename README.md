@@ -17,7 +17,7 @@
 Software Engineer at [Fusion Infotech Ltd](https://github.com/Fusion-Infotech-Ltd) in Dhaka with 3+ years building and deploying ERPNext / Frappe systems for clients in LPG distribution, healthcare, food, manufacturing, travel and recruitment. I work across backend logic, REST APIs, integrations and Linux deployment, and I've contributed a fix to Frappe core.
 
 <p align="center">
-  <img src="assets/bounty-file.svg" alt="Bounty file: Software Engineer, Fusion Infotech Ltd, Dhaka. Python, Django, Frappe / ERPNext, Vue.js, SQL. Redis, MariaDB, Nginx, Ubuntu, GitHub Actions." width="860" />
+  <img src="assets/bounty-file.svg" alt="Big Shot bounty file: Software Engineer, 3+ years. Stack: Python, Django, Frappe, ERPNext, Vue.js, SQL. Infra: Redis, MariaDB, Nginx, Ubuntu, CI/CD. Base: Dhaka, Fusion Infotech. Known for: approval engine, payroll engine, Frappe core fix." width="860" />
 </p>
 
 ### `SESSION 02` — Bounties cleared
